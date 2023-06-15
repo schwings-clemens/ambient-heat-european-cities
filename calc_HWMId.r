@@ -1,3 +1,5 @@
+## This script was created by Simone Russo and updated by Clemens Schwinshackl.
+
 ##------------ ---------hwmid--------------------------
 ## Master function hwmid to call to creat HWMId indices for a specific grid point
 ## Inputs:
